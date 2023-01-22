@@ -1450,7 +1450,7 @@ p {
 
 
 
-@media screen and (min-width: 413px) and (max-width: 767px) {
+@media screen and (min-width: 428px) and (max-width: 767px) {
     .container {
         width: 428px;
         margin-right: auto;
